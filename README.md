@@ -5,7 +5,5 @@ The  Food101  dataset  contains  16,256  images  of  17  classes  of  foods.  Th
 PROJECT OBJECTIVE: Design a Deep Learning based Food identification model
 
 <img width="752" alt="image" src="https://github.com/user-attachments/assets/6c4f9ae1-ccf5-484f-a4ef-697729d7b412" />
-<img width="752" alt="image" src="https://github.com/user-attachments/assets/6c4f9ae1-ccf5-484f-a4ef-697729d7b412" />
 
-<img width="740" alt="image" src="https://github.com/user-attachments/assets/1411fa34-42da-41cf-9277-13216c605af3" />
 <img width="740" alt="image" src="https://github.com/user-attachments/assets/1411fa34-42da-41cf-9277-13216c605af3" />
